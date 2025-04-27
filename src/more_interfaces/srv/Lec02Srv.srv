@@ -1,0 +1,6 @@
+float64 time
+int64 a
+int64 b
+---
+int64 result
+float64 time_interval

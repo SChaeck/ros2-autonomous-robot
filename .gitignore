@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+build
+install
+log
+hls_lfcd_lds_driver
+sllidar_ros2
